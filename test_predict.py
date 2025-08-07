@@ -1,3 +1,4 @@
+#student performance prediction and analysis
 from flask import Flask, render_template, jsonify, request, redirect, session, flash, url_for
 import mysql.connector
 import hashlib
